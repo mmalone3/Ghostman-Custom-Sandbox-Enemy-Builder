@@ -46,19 +46,6 @@ CustomPlayTest/
 - `index.html` contains the complete game, interface, styles, audio, and JavaScript logic.
 - `README.md` contains the project documentation.
 
-## Publish Without Using Git Push
-
-The project can be uploaded directly through the GitHub website:
-
-1. Open the GitHub repository.
-2. Select **Add file**, then **Upload files**.
-3. Upload only `index.html` and `README.md`.
-4. Add a commit message and select **Commit changes**.
-5. Open **Settings > Pages**.
-6. Under **Build and deployment**, select **Deploy from a branch**.
-7. Choose the `main` branch and `/ (root)` folder, then save.
-
-GitHub Pages will serve `index.html` as the project website. Local design notes, recordings, ZIP archives, and other development files do not need to be uploaded.
 
 ## Technology
 
